@@ -9,13 +9,7 @@ public class SqlQuestion {
 //  ('San Diego', 250, '07-Jan-1999'),
 //	('Los Angeles', 300, '08-Jan-1999'),
 //  ('Boston', 700, '08-Jan-1999');
-	
-	// insert into Geography(Region_Name, Store_Name) values
-	//	('East', 'Boston'),
-	//	('East', 'New York'),
-	//	('West', 'Los Angeles'),
-	//	('West', 'San Diego');
-	
+//
 // 3. Geography 做 group by 群組
 //	  select Region_name, count(*) as Store_count
 //	  from Geography
